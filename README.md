@@ -23,9 +23,9 @@ Please visit [here](http://www.loginradius.com/) for more information.
 
 ## Contents ##
 
-* [Demo Application](https://github.com/LoginRadius/dot-net-core-sdk/Demo): It contains a basic demo of the SDK
+* [Demo Application](https://github.com/LoginRadius/dot-net-core-sdk/tree/master/Demo): It contains a basic demo of the SDK
 library
-* [SDK](https://github.com/LoginRadius/dot-net-core-sdk/LoginradiusCoreSdk): It contains all the sourced compiled SDK.
+* [SDK](https://github.com/LoginRadius/dot-net-core-sdk/tree/master/LoginradiusCoreSdk/src): It contains all the sourced compiled SDK.
 
 ## Demo Application
 
@@ -46,7 +46,7 @@ Right click on Solution in Solution Explorer and click on "Restore Nuget Package
 
 ## Documentation
 
-* [Getting Started](https://docs.loginradius.com/api/v1/sdk-libraries/aspnetcore) - Everything you need to begin using this SDK.
+* [Getting Started](https://docs.loginradius.com/api/v2/sdk-libraries/aspnet) - Everything you need to begin using this SDK.
 
 
-General documentation regarding the DotNet REST API and related flows can be found on the [LoginRadius API Documentations](http://apidocs.loginradius.com/) site. 
+General documentation regarding the DotNet REST API and related flows can be found on the [LoginRadius API Documentations](https://docs.loginradius.com/api/) site. 
